@@ -1,0 +1,5 @@
+those are the needed react packages to make the website functional
+> react-icons
+> axios
+> react-router-dom
+> phosphor-react
