@@ -1,4 +1,5 @@
---> some of the packages that we use in the application are the following
+i tried to to a simple e-commerce website with the user side functionality. it doesn't contain the backend 
+i pointed out the packages that i used. they follow
 >>  "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -19,6 +20,6 @@
 >> also we add the material ui font and icons. in the latest we use the pckage dependencies. in the late we use the http link. in the index.html
 
 _______________________________________________
->>this one is the new one
+>> this one is the new one
 
 as we know there is react-icons library and also we can also use phosphor-react as well if we want.
