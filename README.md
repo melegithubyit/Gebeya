@@ -1,4 +1,4 @@
-i tried to to a simple e-commerce website with the user side functionality. it doesn't contain the backend 
+i tried to create a simple e-commerce website with the user side functionality. it doesn't contain the backend 
 i pointed out the packages that i used. they follow
 >>  "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^13.3.0",
